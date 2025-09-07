@@ -57,8 +57,3 @@ It provides seamless product browsing, cart management, and checkout experience
 
 ---
 
-## Screenhots
-
-### Ecommerce
-
-![Home page] (assets/Screenshot.png)
